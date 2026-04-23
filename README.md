@@ -58,10 +58,10 @@ LIBERO (Lifelong Benchmark for Robot Manipulation) provides a comprehensive test
 
 For detailed evaluation instructions, please refer to [LIBERO Evaluation Guide](assets/libero.md).
 
-### 🤖 RoboTwin Evaluation
+### 🤖 MORE Evaluation
 
-We are currently organizing and reviewing the code and model checkpoints for RoboTwin evaluation. Stay tuned for the upcoming release!
+We are currently organizing and refining the code and model checkpoints for a comprehensive evaluation.
+We plan to evaluate and release our models across a wide range of benchmarks, extending beyond LIBERO, RoboTwin and real-world scenarios.
 
-### 🌍 Real-World Evaluation
+Stay tuned!
 
-We are currently organizing and reviewing the code and model checkpoints for real-world robot evaluation. Stay tuned for the upcoming release!
