@@ -1,4 +1,4 @@
-# FUTURE-VLA: Forecasting Unified Trajectories Under Real-time Execution
+# Aligned Action Chunking with Visual Foresight for Robot Manipulation
 
 **FUTURE-VLA** proposes a unified architecture that reformulates **Long-horizon Control** and **Future Forecasting** as a single sequence generation task. Through adaptive temporal compression strategies and latent-space autoregression, the model can process spatiotemporal windows extended by 16× while maintaining single-frame inference latency.
 
